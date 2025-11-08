@@ -1,4 +1,4 @@
-name: Qemu-Vortax V 1.0
+name: Qemu-Vortax V 1.1
 
 on:
   workflow_dispatch:
