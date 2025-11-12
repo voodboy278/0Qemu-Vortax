@@ -4,6 +4,16 @@
 
 Run any operating system (ISO, QCOW2, or compressed archive) directly on **GitHub Actions** with full graphical access through **XFCE**, **RDP**, **VNC**, **NoMachine**, and **Tailscale**.
 
+[![Release: V1.5](https://img.shields.io/badge/Release-V1.5-blue?logo=github)](#)
+[![Previous Releases](https://img.shields.io/badge/Previous‑Releases-lightgrey)](#)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
+[![Platform: Linux](https://img.shields.io/badge/Platform-Linux-orange?logo=linux)](#)
+[![XFCE Desktop](https://img.shields.io/badge/Desktop-XFCE-lightblue)](#)
+[![Connection: Tailscale](https://img.shields.io/badge/Connection-Tailscale-purple)](#)
+[![Connection: Ngrok](https://img.shields.io/badge/Connection-Ngrok-red)](#)
+[![Supported OS](https://img.shields.io/badge/OS-Ubuntu%2CMint%2CKali%2CDeepin-blueviolet)](#)
+[![Build Status](https://img.shields.io/github/actions/workflow/status/YOUR_USER/YOUR_REPO/main.yml?label=GitHub%20Actions&logo=github)](https://github.com/YOUR_USER/YOUR_REPO/actions)
+
 ---
 
 ## ⚙️ Overview
