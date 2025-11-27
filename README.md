@@ -94,26 +94,26 @@ Go to **Settings → Secrets → Actions → New repository secret** and add the
 
 | System | Boot Type | Screenshot | Description |
 |--------|------------|--------------|-------------|
-| `bazite` | ISO | <img src="assets/bazite.png" alt="Bazite" width="120" height="120"> | Minimal distro focused on performance and clean design. |
-| `bliss` | ISO/QCOW2 | <img src="assets/bliss.png" alt="Bliss" width="120" height="120"> | Android-based OS with Google Apps pre-installed. |
+| `bazite` | ISO | <img src="assets/bazite.png" alt="Bazite" width="240" height="240"> | Minimal distro focused on performance and clean design. |
+| `bliss` | ISO/QCOW2 | <img src="assets/bliss.png" alt="Bliss" width="240" height="240"> | Android-based OS with Google Apps pre-installed. |
 | `centos_qcow2` | QCOW2 | Command Line interface | CentOS Stream 10 GenericCloud image for stable enterprise environments. |
-| `cutefish` | ISO | <img src="assets/cutefish.png" alt="Cutefish" width="120" height="120"> | CutefishOS 22.04 with a clean macOS-like interface. |
-| `deepin` | ISO/QCOW2 | <img src="assets/deepin.png" alt="Deepin" width="120" height="120"> | Deepin Linux with an elegant UI and strong customization. |
-| `garuda_mokka` | ISO | <img src="assets/garuda.png" alt="Garuda" width="120" height="120"> | Garuda Linux Mokka edition for gaming and speed. |
-| `kali` | ISO/QCOW2 | <img src="assets/kali.png" alt="Kali" width="120" height="120"> | Kali Linux for penetration testing and ethical hacking labs. |
-| `manjaro` | ISO | <img src="assets/manjaro.png" alt="Manjaro" width="120" height="120"> | Manjaro GNOME 25.0.10, a fast and user-friendly Arch-based distribution. |
-| `mint` | ISO/QCOW2 | <img src="assets/mint.png" alt="Mint" width="120" height="120"> | Linux Mint XFCE edition for smooth and modern experience. |
-| `neon` | ISO | <img src="assets/neon.png" alt="Neon" width="120" height="120"> | KDE Neon with the latest Plasma environment. |
-| `pear` | ISO | <img src="assets/pear.png" alt="Pear" width="120" height="120"> | Pear Linux, macOS-style Ubuntu derivative focused on elegance and simplicity. |
-| `pop_os` | ISO/QCOW2 | <img src="assets/popos.png" alt="PopOS" width="120" height="120"> | Pop!\_OS optimized for developers and creators. |
-| `ubuntu` | ISO | <img src="assets/ubuntu.png" alt="Ubuntu" width="120" height="120"> | Classic Ubuntu desktop with XFCE, stable and lightweight. |
+| `cutefish` | ISO | <img src="assets/cutefish.png" alt="Cutefish" width="240" height="240"> | CutefishOS 22.04 with a clean macOS-like interface. |
+| `deepin` | ISO/QCOW2 | <img src="assets/deepin.png" alt="Deepin" width="240" height="240"> | Deepin Linux with an elegant UI and strong customization. |
+| `garuda_mokka` | ISO | <img src="assets/garuda.png" alt="Garuda" width="240" height="240"> | Garuda Linux Mokka edition for gaming and speed. |
+| `kali` | ISO/QCOW2 | <img src="assets/kali.png" alt="Kali" width="240" height="240"> | Kali Linux for penetration testing and ethical hacking labs. |
+| `manjaro` | ISO | <img src="assets/manjaro.png" alt="Manjaro" width="240" height="240"> | Manjaro GNOME 25.0.10, a fast and user-friendly Arch-based distribution. |
+| `mint` | ISO/QCOW2 | <img src="assets/mint.png" alt="Mint" width="240" height="240"> | Linux Mint XFCE edition for smooth and modern experience. |
+| `neon` | ISO | <img src="assets/neon.png" alt="Neon" width="240" height="240"> | KDE Neon with the latest Plasma environment. |
+| `pear` | ISO | <img src="assets/pear.png" alt="Pear" width="240" height="240"> | Pear Linux, macOS-style Ubuntu derivative focused on elegance and simplicity. |
+| `pop_os` | ISO/QCOW2 | <img src="assets/popos.png" alt="PopOS" width="240" height="240"> | Pop!\_OS optimized for developers and creators. |
+| `ubuntu` | ISO | <img src="assets/ubuntu.png" alt="Ubuntu" width="240" height="240"> | Classic Ubuntu desktop with XFCE, stable and lightweight. |
 | `debian_qcow2` | QCOW2 | Command Line interface | Debian 12 Bookworm cloud image preconfigured for QEMU. |
-| `win11` | QCOW2 | <img src="assets/win11.png" alt="Win11" width="120" height="120"> | Windows 11 latest release optimized for security and UI. |
-| `win10` | QCOW2 | <img src="assets/win10.png" alt="Win10" width="120" height="120"> | Windows 10 stable release with mainstream app support. |
-| `win8.1` | QCOW2 | <img src="assets/win8.1.png" alt="Win8.1" width="120" height="120"> | Windows 8.1 with modern UI and improved performance. |
-| `win7` | QCOW2 | <img src="assets/win7.png" alt="Win7" width="120" height="120"> | Windows 7 Professional with classic interface and broad software support. |
-| `winVista` | QCOW2 | <img src="assets/winVista.png" alt="WinVista" width="120" height="120"> | Windows Vista with Aero interface and legacy support. |
-| `winXP` | QCOW2 | <img src="assets/winXP.png" alt="WinXP" width="120" height="120"> | Windows XP classic edition, lightweight and legacy software compatible. |
+| `win11` | QCOW2 | <img src="assets/win11.png" alt="Win11" width="240" height="240"> | Windows 11 latest release optimized for security and UI. |
+| `win10` | QCOW2 | <img src="assets/win10.png" alt="Win10" width="240" height="240"> | Windows 10 stable release with mainstream app support. |
+| `win8.1` | QCOW2 | <img src="assets/win8.1.png" alt="Win8.1" width="240" height="240"> | Windows 8.1 with modern UI and improved performance. |
+| `win7` | QCOW2 | <img src="assets/win7.png" alt="Win7" width="240" height="240"> | Windows 7 Professional with classic interface and broad software support. |
+| `winVista` | QCOW2 | <img src="assets/winVista.png" alt="WinVista" width="240" height="240"> | Windows Vista with Aero interface and legacy support. |
+| `winXP` | QCOW2 | <img src="assets/winXP.png" alt="WinXP" width="240" height="240"> | Windows XP classic edition, lightweight and legacy software compatible. |
 
 > All previous releases (V1.3, V1.4, V1.5, V1.6, V1.7, V1.8, V1.9) are included as previous released in [Releases](https://github.com/qemuvortax/Qemu-Vortax/releases) folder.
 
