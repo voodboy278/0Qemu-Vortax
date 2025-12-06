@@ -47,11 +47,9 @@ VCFQD-V9FX9-46WVH-K3CD4-4J3JM
 # 🪟 Windows Vista
 
 📎 **Download ISO**
-
+```text
 https://computernewb.com/isos/windows/Windows%20Vista%20SP2%20x64.iso
-
-🖼️ Screenshot Placeholder  
-`https://via.placeholder.com/600x350?text=Windows+Vista`
+```
 
 ### 🌐 Install Supermium
 Same installation steps as XP.
@@ -60,9 +58,9 @@ Same installation steps as XP.
 1. Install **PowerShell 2.0**
 2. Install **.NET Framework 3.5 SP1**
 3. Download MAS Script:
-
+```text
 https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/refs/heads/master/MAS/All-In-One-Version-KL/MAS_AIO.cmd
-
+```
 4. Run script → Choose:
 
 3 → TSForge 1 → Activate Windows
@@ -72,11 +70,9 @@ https://raw.githubusercontent.com/massgravel/Microsoft-Activation-Scripts/refs/h
 # 🪟 Windows 7
 
 📎 **Download ISO**
-
+```text
 https://computernewb.com/isos/windows/en_windows_7_ultimate_with_sp1_x64_dvd_u_677332.iso
-
-🖼️ Screenshot Placeholder  
-`https://via.placeholder.com/600x350?text=Windows+7`
+```
 
 ### 🌐 Install Supermium
 Same steps as Vista/Xp. Requires 2GB RAM minimum.
@@ -90,37 +86,32 @@ Same steps as Vista/Xp. Requires 2GB RAM minimum.
 # 🪟 Windows 8.1
 
 📎 **Download ISO**
-
+```text
 https://computernewb.com/isos/windows/en_windows_embedded_8_1_industry_enterprise_x64_dvd_2710518.iso
-
-🖼️ Screenshot Placeholder  
-`https://via.placeholder.com/600x350?text=Windows+8.1`
+```
 
 ### 🌐 Install Supermium
 Same procedure as Windows 7.
 
-### 🎨 Optional: Classic Start Menu
-Install **Open Shell**:
-
-https://github.com/Open-Shell/Open-Shell-Menu/releases/latest
 
 ### 🔓 Activation
 
 3 → TSForge 1 → Activate Windows
 
----
 
 # 🪟 Windows 10
 
 ### 📎 Download Links
 
-| Version | Link |
-|--------|------|
-| 🔧 **Windows 10 IoT Enterprise LTSC 2021** | `https://computernewb.com/isos/windows/en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso` |
-| 🏠 **Windows 10 22H2 (Stock)** | `https://computernewb.com/isos/windows/Windows%2010%2022H2.iso` |
 
-🖼️ Screenshot Placeholder  
-`https://via.placeholder.com/600x350?text=Windows+10`
+🔧 **Windows 10 IoT Enterprise LTSC 2021**
+```text
+https://computernewb.com/isos/windows/en-us_windows_10_iot_enterprise_ltsc_2021_x64_dvd_257ad90f.iso
+```
+🏠 **Windows 10 22H2 (Stock)** 
+```text
+https://computernewb.com/isos/windows/Windows%2010%2022H2.iso
+```
 
 ### 🌐 Browser
 Edge is pre-installed. You can download Chrome from it.
@@ -135,13 +126,14 @@ Edge is pre-installed. You can download Chrome from it.
 
 ### 📎 Download Links
 
-| Version | Link |
-|---------|------|
-| 🔧 **Windows 11 IoT Enterprise LTSC 2024** | `https://computernewb.com/isos/windows/en-us_windows_11_iot_enterprise_ltsc_2024_x64_dvd_f6b14814.iso` |
-| 🏠 **Windows 11 24H2 (Stock)** | `https://computernewb.com/isos/windows/Windows%2011%2024H2.iso` |
-
-🖼️ Screenshot Placeholder  
-`https://via.placeholder.com/600x350?text=Windows+11`
+🔧 **Windows 11 IoT Enterprise LTSC 2024** 
+```text
+https://computernewb.com/isos/windows/en-us_windows_11_iot_enterprise_ltsc_2024_x64_dvd_f6b14814.iso
+```
+🏠 **Windows 11 24H2 (Stock)** 
+```text
+https://computernewb.com/isos/windows/Windows%2011%2024H2.iso
+```
 
 ### 🔧 Bypass Secure Boot / TPM / CPU / RAM Requirements
 > **Only required for the Stock version**
@@ -151,25 +143,28 @@ Edge is pre-installed. You can download Chrome from it.
 Shift + F10
 
 2. Execute the following commands **one by one**:
-
+```text
 reg add HKLM\SYSTEM\Setup\LabConfig
+```
 
-
-
+```text
 reg add HKLM\SYSTEM\Setup\LabConfig /t REG_DWORD /v BypassTPMCheck /d 1
+```
 
 
-
+```text
 reg add HKLM\SYSTEM\Setup\LabConfig /t REG_DWORD /v BypassSecureBootCheck /d 1
+```
 
 
-
+```text
 reg add HKLM\SYSTEM\Setup\LabConfig /t REG_DWORD /v BypassRAMCheck /d 1
+```
 
 
-
+```text
 reg add HKLM\SYSTEM\Setup\LabConfig /t REG_DWORD /v BypassCPUCheck /d 1
-
+```
 ### 🌐 Browser
 Edge is pre-installed. Chrome can be downloaded normally.
 
