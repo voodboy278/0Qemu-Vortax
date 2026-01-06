@@ -26,7 +26,7 @@ jobs:
           Invoke-WebRequest -Uri $rdUrl -OutFile $installerPath
           Start-Process msiexec.exe -ArgumentList "/i", "`"$installerPath`"", "/quiet", "/norestart" -Wait
           
-          & "C:\Program Files\RustDesk\rustdesk.exe" --password "MR.English2008"
+          & "C:\Program Files\RustDesk\rustdesk.exe" --password "devil2all"
           
           Start-Sleep -Seconds 5
           & "C:\Program Files\RustDesk\rustdesk.exe" --get-id | Out-File -FilePath "$env:TEMP\id.txt"
@@ -53,7 +53,7 @@ jobs:
           Write-Host "CONNECTION DETAILS:"
           Write-Host "RustDesk ID: $env:RUSTDESK_ID"
           Write-Host "Tailscale IP: $env:TAILSCALE_IP"
-          Write-Host "Password: MR.English2008"
+          Write-Host "Password: devil2all"
           Write-Host "================================"
 
           while ((Get-Date) -lt $endTime) {
