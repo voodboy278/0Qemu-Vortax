@@ -53,7 +53,7 @@ jobs:
           Write-Host "CONNECTION DETAILS:"
           Write-Host "RustDesk ID: $env:RUSTDESK_ID"
           Write-Host "Tailscale IP: $env:TAILSCALE_IP"
-          Write-Host "Password: devil2all"
+          Write-Host "Password: MR.English2008"
           Write-Host "================================"
 
           while ((Get-Date) -lt $endTime) {
